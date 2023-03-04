@@ -1,53 +1,36 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DisSpaceX&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
-</p>
-
-<p align="center"> 
-  <a href="https://discord.gg/SNG3dh3MbR" target="_blank"> <img src="https://discordapp.com/api/guilds/903043706410643496/widget.png?style=banner2"/> </a> 
-</p>
-
-<p align="center"> 
-  <a href="https://ko-fi.com/nanotect" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a> 
-</p>
-
-## 📑 Feature
-- [x] Music System
-- [x] Filters System
-- [x] AutoComplete (Play, PlaySkip, PlayTop)
-- [x] Song Request Channel
-- [x] Context Message Menu
-- [x] Message Button
-- [x] Database (Json)
-- [x] Easy to use
+## 📑 features
+- [x] music system
+- [x] filters system
+- [x] autocomplete (play, playskip, playtop)
+- [x] song request channel
+- [x] context message menu
+- [x] message button
+- [x] database (json)
+- [x] easy to use
 
 ## 🎶 Support Source
-- [x] Youtube
-- [x] SoundCloud
-- [x] Spotify
+- [x] youtube
+- [x] soundcloud
+- [x] spotify
 
-## 🚨 Have a Problem
+## 🛑 requirements
 
-✈ Join Discord:  [NanoSpace ♪♪](https://discord.gg/SNG3dh3MbR)
-   mention me in chat #general or #javascript and ask problem okay! 👌
+node.js **[Download](https://nodejs.org/dist/v17.0.1/node-v17.0.1-x64.msi)**
 
-## 🛑 Requirements
+discord bot token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
 
-Node.js **[Download](https://nodejs.org/dist/v17.0.1/node-v17.0.1-x64.msi)**
-
-Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
-
-## 💌 Installation
+## 💌 installation
 
 ```
-git clone https://github.com/Adivise/DisSpaceX
-cd DisSpaceX
+git clone https://github.com/michgits/waltz-v2
+cd waltz-v2
 npm install
 ```
-After installation finishes you can use `node .` to start the bot. or `Run Start.bat`
+after installation finishes you can use `node .` to start the bot. or `run start.bat`
 
-## 📚 Configuration
+## 📚 configuration
 
-Copy or Rename `.env.example` to `.env` and fill out the values:
+copy or rename `.env.example` to `.env` and fill out the values:
 
 ```.env
 TOKEN=REPLACE_HERE
@@ -55,9 +38,9 @@ OWNER_ID=REPLACE_HERE
 EMBED_COLOR=#000001
 ```
 
-## 📄 Features & Commands
+## 📄 features & commands
 
-> Note: The default prefix is '/'
+> note: the default prefix is '/'
 
 💬 **Context Menu**
 - Play (Right-Click & Apps > Context | Play) 
