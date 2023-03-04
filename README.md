@@ -15,9 +15,9 @@
 
 ## 🛑 requirements
 
-node.js **[Download](https://nodejs.org/dist/v17.0.1/node-v17.0.1-x64.msi)**
+node.js **[download](https://nodejs.org/dist/v17.0.1/node-v17.0.1-x64.msi)**
 
-discord bot token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
+discord bot token **[guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
 
 ## 💌 installation
 
